@@ -1,0 +1,33 @@
+Comentarios examen
+
+El error del xs
+
+juego de caracteres- Euro
+
+Leer los enunciados. Sistema de gobierno, idioma y el id de pais y continente.
+
+Nos sobra tiempo y no hacemos el XML entero...
+
+Cuando definimos un tipo debajo de un elemento, no hay que definir tipo en el elemento
+
+Atributo: no puede admitir multiples valores
+
+La antartidad es un continente pero no un pais, no deberíamos obligar a paises. Continentes entre 0 y 6 ¿
+no?
+
+Debemos poder admitir más de una receta por cada fichero.
+Autor: dos elemenos con choise, un elemento con un atributo tipo de particular/restaurante. Ambas OK.
+
+Nombre de la receta como ID ¿¿??
+
+Buscar por ingrediente: separar el ingrediente de la cantidad.
+OJO, poner el nombre del ingrediente como nombre de elemento limita muuuucho.
+
+El código de ingrediente si lo metemos debe ser id y publicar una lista de codigos e ingredientes 8y obligarnos a mantenerla)
+
+Nombre del ingrediente como ID
+
+Incluir el orden en los pasos: elemento o atributo específico de orden. OJO, si es ID no podría repetirse el numero en distintas recetas.
+
+
+

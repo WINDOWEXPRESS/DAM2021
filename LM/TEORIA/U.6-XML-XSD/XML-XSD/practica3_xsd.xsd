@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/2001/XMLSchema">
+	<element name="catalogoLibro">
+		<complexType>
+			<sequence>
+				<element name="libro" maxOccurs="unbounded">
+					<complexType>
+						<sequence>
+							<element name="titulo" type="string"/>
+							<element name="autor" type="string" minOccurs="1" maxOccurs="3"/>
+							<element name="fecha" type="date"/>
+							<element name="ISBN" type="string"/>
+							<element name="editor" type="string"/>
+						</sequence>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
+	</element>
+</schema>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="recetas">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="receta" type="tiporeceta" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:complexType name="tiporeceta">
+		<xsd:sequence>
+			<xsd:element name="datos_generales" type="tipodatos"/>
+			<xsd:element name="ingredientes" type="tipoingredientes"/>
+			<xsd:element name="pasos" type="tipopaso"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="tipodatos">
+		<xsd:sequence>
+			<xsd:element name="nombre" type="xsd:string"/>
+			<xsd:choice>
+				<xsd:element name="autor" type="xsd:string"/>
+				<xsd:element name="restaurante">
+					<xsd:complexType>
+						<xsd:simpleContent>
+							<xsd:extension base="xsd:string">
+								<xsd:attribute name="url" type="xsd:string"/>
+							</xsd:extension>
+						</xsd:simpleContent>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:choice>
+			<xsd:element name="tipo_plato">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="Entrante"/>
+						<xsd:enumeration value="Primer plato"/>
+						<xsd:enumeration value="Segundo plato"/>
+						<xsd:enumeration value="Postre"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:element>
+			<xsd:element name="dificultad">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="Fácil"/>
+						<xsd:enumeration value="Media"/>
+						<xsd:enumeration value="Difícil"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:element>
+			<xsd:element name="calorias" type="xsd:integer"/>
+			<xsd:element name="tiempo">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:pattern value="[0-9][0-9]( horas, )[0-9][0-9]( minutos)"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:element>
+			<xsd:element name="electrodomesticos" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="tipoingredientes">
+		<xsd:sequence>
+			<xsd:element name="ingrediente" minOccurs="0" maxOccurs="unbounded">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="nombre" type="xsd:string"/>
+						<xsd:element name="cantidad" type="xsd:string"/>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="tipopaso">
+		<xsd:sequence>
+			<xsd:element name="paso" minOccurs="0" maxOccurs="unbounded">
+				<xsd:complexType>
+					<xsd:simpleContent>
+						<xsd:extension base="xsd:string">
+							<xsd:attribute name="orden" type="xsd:integer" use="required"/>
+						</xsd:extension>
+					</xsd:simpleContent>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:schema>

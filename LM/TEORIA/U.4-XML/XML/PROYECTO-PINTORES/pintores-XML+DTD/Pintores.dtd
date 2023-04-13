@@ -1,0 +1,21 @@
+<!ELEMENT pintores (pintor+)>
+	<!ELEMENT pintor (cod_pintor, nombre, apellidos, año_nacimiento, pais, estilo, cuadros)>
+		<!ELEMENT cod_pintor (#PCDATA)>
+		<!ELEMENT nombre (#PCDATA)>
+		<!ELEMENT apellidos (#PCDATA)>
+		<!ELEMENT año_nacimiento (#PCDATA)>
+		<!ELEMENT pais (#PCDATA)>
+		<!ELEMENT estilo (#PCDATA)>
+		<!ELEMENT cuadros (cuadro+)>
+			<!ELEMENT cuadro (cod_cuadro, nombre, año, dimensiones?, tecnica, museo)>
+				<!ELEMENT cod_cuadro (#PCDATA)>
+				<!ELEMENT año (#PCDATA)>
+				<!ELEMENT dimensiones (#PCDATA)>
+				<!ELEMENT tecnica (#PCDATA)>
+				<!ELEMENT museo (#PCDATA)>
+				 <!ATTLIST museo coleccion (museo|privada) #IMPLIED >
+
+				
+				
+				
+				

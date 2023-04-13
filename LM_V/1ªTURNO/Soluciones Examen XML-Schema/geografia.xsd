@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+  <element name="geografia">
+	<complexType>
+		<sequence>
+			<element name="continentes">
+				<complexType>
+				  <sequence>
+					<element name="continente" minOccurs="0" maxOccurs="unbounded">
+						<complexType>
+							<sequence>	
+								<element name="pais" minOccurs="0" maxOccurs="unbounded">
+									<complexType>
+										<sequence>
+											<element name="sistema">
+												<simpleType>
+													<restriction base="string">													 
+													  <enumeration value="monarquia"/>
+													  <enumeration value="republica"/>
+													</restriction>
+												</simpleType>
+											</element>
+											<element name="superficie" type="positiveInteger"/>
+											<element name="poblacion" type="decimal"/>
+											<element name="idioma">	
+												<simpleType>
+													<restriction base="string">													 
+													  <enumeration value="espanyol"/>
+													  <enumeration value="ingles"/>
+													  <enumeration value="frances"/>
+													</restriction>
+												</simpleType>
+											</element>	
+										</sequence>
+										<attribute name="nombre" type="ID" use="required"/>	
+									</complexType>
+								</element>
+							</sequence>
+							<attribute name="nombre" type="ID" use="required"/>
+						</complexType>
+					</element>
+				  </sequence>
+				</complexType>
+			</element>	
+		</sequence>
+	</complexType>		
+  </element>
+</schema>  

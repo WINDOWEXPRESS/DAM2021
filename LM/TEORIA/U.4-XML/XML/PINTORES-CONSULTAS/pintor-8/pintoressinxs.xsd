@@ -1,0 +1,91 @@
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/2001/XMLSchema">
+	<element name="pintores">
+		<complexType>
+			<sequence>
+				<element name="pintor" minOccurs="0" maxOccurs="unbounded">
+					<complexType>
+						<sequence>
+							<!-- restricion patron una letra y  tres digitos-->
+							<element name="cod_pintor">
+								<annotation>
+									<documentation>solo una letra y 3 digitos </documentation>
+								</annotation>
+								<simpleType>
+									<restriction base="string">
+										<pattern value="[A-Z][0-9]{3}"/>
+									</restriction>
+								</simpleType>
+							</element>
+							<!-- restricion de caracteres -->
+							<element name="nombre">
+								<simpleType>
+									<restriction base="string">
+										<maxLength value="60"/>
+									</restriction>
+								</simpleType>
+							</element>
+							<element name="apellidos" type="string"/>
+							<element name="año_nacimiento" type="short"/>
+							<!-- solo de paises España y Alemania por ejemplo-->
+							<element name="pais">
+								<simpleType>
+									<restriction base="string">
+										<enumeration value="España"/>
+										<enumeration value="Alemania"/>
+									</restriction>
+								</simpleType>
+							</element>
+							<element name="estilo" type="string"/>
+							<element name="cuadros">
+								<complexType>
+									<sequence>
+										<element name="cuadro" minOccurs="0" maxOccurs="unbounded">
+											<complexType>
+												<sequence>
+													<!-- restricion patron una letra y  tres digitos-->
+													<element name="cod_cuadro">
+														<annotation>
+															<documentation>solo una letra y 3 digitos </documentation>
+														</annotation>
+														<simpleType>
+															<restriction base="string">
+																<pattern value="[A-Z][0-9]{3}"/>
+															</restriction>
+														</simpleType>
+													</element>
+													<element name="nombre" type="string"/>
+													<!-- elemento con solo permite 4 digitos-->
+													<element name="año">
+														<simpleType>
+															<restriction base="short">
+																<totalDigits value="4"/>
+															</restriction>
+														</simpleType>
+													</element>
+													<!-- elemento dimensiones es opcional-->
+													<element name="dimensiones" type="string" minOccurs="0"/>
+													<element name="tecnica" type="string"/>
+													<!-- elemento con un atributo -->
+													<element name="museo">
+														<complexType>
+															<simpleContent>
+																<extension base="string">
+																	<attribute name="coleccion" type="string" use="required"/>
+																</extension>
+															</simpleContent>
+														</complexType>
+													</element>
+												</sequence>
+											</complexType>
+										</element>
+									</sequence>
+								</complexType>
+							</element>
+						</sequence>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
+	</element>
+</schema>

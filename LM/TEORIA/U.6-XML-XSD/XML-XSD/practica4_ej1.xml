@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ej1_practica4_alumnos.xsd">
+	<alumno num_alumno="uno" altura="180" sexo="mujer" ayudado="dos">
+		<nombre>Puri</nombre>
+		<apellido1>Díaz</apellido1>
+		<apellido2>Malán</apellido2>
+		<telefono tipo="movil" almacenado="tutor">565895412</telefono>
+		<equipo>equipo</equipo>
+		<origen>
+			<ciudad>Madrid</ciudad>
+		</origen>
+		<notas>
+			En esta evaluación
+			<evaluacion>1ª</evaluacion>
+			<calificacion>5</calificacion>
+		</notas>
+	</alumno>
+	<alumno num_alumno="dos" altura="180" >
+		<nombre>Pepe</nombre>
+		<apellido1>Díaz</apellido1>
+		<apellido2>Perez</apellido2>
+		<telefono tipo="fijo" almacenado="padre">666666666</telefono>
+		<telefono tipo="movil" almacenado="propio"/>
+		<origen>
+			<ciudad>Madrid</ciudad>
+		</origen>
+		<notas>
+			En esta evaluación
+			<evaluacion>1ª</evaluacion>
+			<calificacion>5</calificacion>
+		</notas>
+	</alumno>
+	<alumno num_alumno="tres" sexo="mujer">
+		<nombre>Paloma</nombre>
+		<apellido1>Díaz</apellido1>
+		<apellido2>Martinez</apellido2>
+		<aficiones>lectura</aficiones>
+		<aficiones>lectura</aficiones>
+		<origen>
+			<pais>Espanna</pais>
+		</origen>
+		
+		<notas>En esta evaluación
+			<evaluacion>1ª</evaluacion>
+			<calificacion>5	</calificacion>
+		</notas>
+	</alumno>
+</alumnos>

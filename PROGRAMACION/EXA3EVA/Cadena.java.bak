@@ -1,0 +1,58 @@
+public class Cadena{
+	public static void main(String []args){
+		
+		Datos cadena = new Datos();
+		cadena.separar(cadena,"16;\"PEARL S.\";\"BUCK\";\"ESTADOUNIDENSE\"");
+
+	}
+	
+}
+
+class Datos{
+	private String nombre;
+	private String apellidos;
+	private String nacionalidad;
+	private int codigo;
+	
+	
+	public String Tamanio(String texto,int tam){
+		String copia="";
+		if(texto.length()>tam){
+			System.out.println("Dato mayor que restriccion de longitud.");
+		}else{
+			copia = texto;
+			for(int i = copia.length() ;i<=tam;i++){
+				copia += " ";
+			}
+			copia+=".";
+		}
+		return copia+"hola";
+	}
+	
+	public void separar(Datos cadena,String texto){
+		String[] datos;
+		datos=texto.split(";");
+		
+		for(int i = 0;datos.length>i;i++){
+			for(int j = 0;j<datos[i].length();j++){
+				if(datos[i].charAt(j) == '\"'){
+					datos[i] = datos[i].substring(1,datos);
+					System.out.println(datos[i].charAt(j)+"hila");
+				}
+			}
+		}
+		
+		
+		
+		
+		
+			
+		
+		System.out.println(datos.length);
+		
+		for(String x : datos){
+			System.out.println(x);
+		}
+	}
+	
+}

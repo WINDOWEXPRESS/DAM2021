@@ -1,0 +1,36 @@
+-- this is an example
+https://dbis-uibk.github.io/relax/
+
+group: DD
+
+Profesor = {
+PID, NOMP, DESP
+'P1', 'RAUL', 105
+'P2', 'SIMON', 103
+'P3', 'ROSA', 107
+'P4', 'ADRIAN', 107
+}
+Asignatura = {
+AID, NOMA
+'A1', 'FISICA'
+'A2', 'QUIMICA'
+'A3', 'DIBUJO'
+'A4', 'MATEMAT.'
+}
+Asistencia = {
+PID, AID, CID
+'P1', 'A1', 'C1'
+'P1', 'A2', 'C3'
+'P2', 'A4', 'C1'
+'P3', 'A3', 'C3'
+'P3', 'A3', 'C2'
+'P4', 'A2', 'C1'
+'P4', 'A2', 'C2'
+'P3', 'A3', 'C1'
+}
+Clases = {
+CID, PISO, BLOQUE
+'C1', 1, 1
+'C2', 1, 2
+'C3', 2, 1
+}

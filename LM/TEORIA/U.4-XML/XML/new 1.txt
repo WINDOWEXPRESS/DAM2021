@@ -1,0 +1,81 @@
+﻿SE desea guardar las informaciones de alumnos.Para ellos consideramos las etiquetas raiz 
+se van a llamar Clasedam DICHA CLASE ESTAN COMPUESTA POR VARIOS ITEM DE TIPO ALUMNO
+DE CADA ALUMNO SE VA A GUARDAR SUIGUIENTE INFORMACION 
+	NIA ESTA PORMADA POR UN PATRON DE DOS LETREAS Y CUATRO NUMEROS
+	NOMBRE TENDRA  UNA LONGITUD MAXIMA DE 30 CARACTERES
+	APELLIDO LONGITUD DE 50 CARACTERES 
+	EDAD ESTARAN EN UN RANGO DE 17 A 99 ANIOS DE TIPO SHORT
+	TENDRA DIRECCION QUE SERA UN STRING Y ES OPCIONAL
+	TELEFONO QUE TENDRA UN ATRIBUTO QUE SOLO PUEDE SER TIPO FIJO O MOVIL Y PUEDE TENER MAS DE UN TELEFONO
+	NOTA DE TIPO SHORT Y HABRA 1 HASTA 3 NOTAS
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<biblioteca>
+ <libro>
+	 <titulo>La vida está en otra parte</titulo>
+	 <autor>Milan Kundera</autor>
+	 <fechaPublicacion año="1973"/>
+ </libro>
+ <libro>
+	 <titulo>Pantaleón y las visitadoras</titulo>
+	 <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+	 <fechaPublicacion año="1973"/>
+	<fechaPresentacion año="1972"/>
+ </libro>
+ <libro>
+ 	<titulo>Conversación en la catedral</titulo>
+ 	<autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+ 	<fechaPublicacion año="1969"/>
+	<fechaPresentacion año="1962"/>
+ </libro>
+</biblioteca>
+
+
+titulo 
+//fechaPublicacion[@año<1973 and @año> 1965 ]/../titulo
+
+sacar autor cuya fecha de nacimiento sea 28/03/1936
+//autor[@fechaNacimiento="28/03/1936"]/text()
+
+seleccionar autor que no tenga fechaNacimiento
+//autor[not (@fechaNacimiento)]/text()
+
+seleccionar todos los elementos que tengan el atributo fechaNacimiento
+//*[@fechaNacimiento]
+//@fechaNacimiento/..
+
+ seleccionar todos los libros que tengan un autor con atributo fechaNacimiento
+ //libro[autor[@fechaNacimiento]]
+ //libro/autor/@fechaNacimiento/../..
+
+---------------------------------------------------------------------------------------------
+EN XML
+	<?xml-stylesheet type="text/xsl" href="fichero.xsl"?>
+EN XSL
+	<xsl:stylesheet version:............................>
+		<xsl:template match="patron">
+		</xsl:template>
+	</xsl:stylesheet>
+	
+	------------------------------------------
+	<xsl:value-of select="patron"/>
+
+	<xsl:for-each select="patron">
+	</xsl:for-each>
+
+	<xsl:if test="expresion">
+	</xsl:if>	
+
+	<xsl:choose>
+		<xsl:when test="expresion">.....</xsl:when>
+		<xsl:when test="expresion">.....</xsl:when>
+		...
+		<xsl:otherwise>....</xsl:otherwise>
+	</xsl:choose>

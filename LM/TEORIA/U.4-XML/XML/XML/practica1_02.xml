@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Crear un documento xml “alumnos.xml”  bien formado para describir elementos
+relativos a los alumnos de una clase, incluido su número de teléfono móvil,
+se debe especificar si es fijo o es móvil. Insertar  varios alumnos. -->
+
+	<alumnos>
+		<alumno>
+			<nombre>Pepe</nombre>
+			<apellido1>Luis</apellido1>
+			<apellido2>lopez</apellido2>
+			<telefono >122345546</telefono>
+			</alumno>
+
+		<alumno>
+			<nombre>Juan</nombre>
+			<apellido1>perez</apellido1>
+			<apellido2>garcia</apellido2>
+			<telefono >122345546</telefono>
+		</alumno>
+		
+		<alumno>
+			<nombre>Mario</nombre>
+			<apellido1>ssss</apellido1>
+			<apellido2>garcia</apellido2>
+			<telefono >122345546</telefono>
+		</alumno>
+	</alumnos>

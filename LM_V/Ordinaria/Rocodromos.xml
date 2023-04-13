@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rocodromos>
+	<rocodromo>
+		<cod_roc>R001</cod_roc>
+		<nombre>Boulder Madrid</nombre>
+		<direccion>Calle del Hachero,12</direccion>
+		<telefono>625714150</telefono>
+		<m2>300</m2>
+		<escaladores>
+			<escalador>
+				<dni>00000001-X</dni>
+				<nombre>Edu</nombre>
+				<apellido>Marin</apellido>
+				<nacionalidad>Española</nacionalidad>
+				<direccion>Calle Monte Perdido,10</direccion>
+				<telefono>600000001</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000002-Y</dni>
+				<nombre>Carlos</nombre>
+				<apellido>Suarez</apellido>
+				<nacionalidad>Española</nacionalidad>
+				<direccion>Avenida Monte Urgull,12</direccion>
+				<telefono>600000002</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000003-Z</dni>
+				<nombre>Josune</nombre>
+				<apellido>Bereziartu</apellido>
+				<nacionalidad>Española</nacionalidad>
+				<direccion>Calle Abantos,21</direccion>
+				<telefono>600000003</telefono>
+			</escalador>
+		</escaladores>
+	</rocodromo>
+	<rocodromo>
+		<cod_roc>R002</cod_roc>
+		<nombre>Sputnik Climbing</nombre>
+		<direccion>Calle la Granja,100</direccion>
+		<telefono>655725267</telefono>
+		<m2>500</m2>
+		<escaladores>
+			<escalador>
+				<dni>00000004-A</dni>
+				<nombre>Adam</nombre>
+				<apellido>Ondra</apellido>
+				<nacionalidad>Checa</nacionalidad>
+				<direccion>Paseo del Everest,143</direccion>
+				<telefono>600000004</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000005-B</dni>
+				<nombre>Cris</nombre>
+				<apellido>Sharma</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Calle del Capitan,35</direccion>
+				<telefono>600000005</telefono>
+			</escalador>
+		</escaladores>
+	</rocodromo>
+	<rocodromo>
+		<cod_roc>R003</cod_roc>
+		<nombre>The Climb</nombre>
+		<direccion>Calle Carbon,5</direccion>
+		<telefono>916428288</telefono>
+		<m2>800</m2>
+		<escaladores>
+			<escalador>
+				<dni>00000006-C</dni>
+				<nombre>Sasha</nombre>
+				<apellido>DiGiulian</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Calle Makalu,16</direccion>
+				<telefono>600000006</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000007-D</dni>
+				<nombre>Iñaki</nombre>
+				<apellido>Ochoa</apellido>
+				<nacionalidad>Española</nacionalidad>
+				<direccion>Avenida Mulhacen,47</direccion>
+				<telefono>600000007</telefono>
+			</escalador>
+		</escaladores>
+	</rocodromo>
+	<rocodromo>
+		<cod_roc>R004</cod_roc>
+		<nombre>Urban Monkey</nombre>
+		<direccion>Calle Tarragona,8</direccion>
+		<telefono>915309494</telefono>
+		<m2>450</m2>
+		<escaladores>
+			<escalador>
+				<dni>00000008-F</dni>
+				<nombre>Edurne</nombre>
+				<apellido>Pasaban</apellido>
+				<nacionalidad>Española</nacionalidad>
+				<direccion>Paseo del Everest,115</direccion>
+				<telefono>600000008</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000009-G</dni>
+				<nombre>Alex</nombre>
+				<apellido>Honnold</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Calle Yellowstone,3</direccion>
+				<telefono>600000009</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000010-H</dni>
+				<nombre>Brad</nombre>
+				<apellido>Gobright</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Avenida del K2,143</direccion>
+				<telefono>600000010</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000011-J</dni>
+				<nombre>Ashima</nombre>
+				<apellido>Shiraishi</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Avenida del K2,182</direccion>
+				<telefono>600000011</telefono>
+			</escalador>
+		</escaladores>
+	</rocodromo>
+	<rocodromo>
+		<cod_roc>R005</cod_roc>
+		<nombre>Roc 30</nombre>
+		<direccion>Paseo de San Illan,106</direccion>
+		<telefono>917653751</telefono>
+		<m2>550</m2>
+		<escaladores>
+			<escalador>
+				<dni>00000012-K</dni>
+				<nombre>Alex</nombre>
+				<apellido>Megos</apellido>
+				<nacionalidad>Alemana</nacionalidad>
+				<direccion>Calle Elbrus,6</direccion>
+				<telefono>600000012</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000013-L</dni>
+				<nombre>Alain</nombre>
+				<apellido>Robert</apellido>
+				<nacionalidad>Francesa</nacionalidad>
+				<direccion>Calle Materhorn</direccion>
+				<telefono>600000013</telefono>
+			</escalador>
+		</escaladores>
+	</rocodromo>
+	<rocodromo>
+		<cod_roc>R006</cod_roc>
+		<nombre>Tsunami Climb</nombre>
+		<direccion>Calle Lanzarote,20</direccion>
+		<telefono>911263252</telefono>
+		<m2>700</m2>
+		<escaladores>
+			<escalador>
+				<dni>00000014-M</dni>
+				<nombre>Daniel</nombre>
+				<apellido>Woods</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Avenida del K2,58</direccion>
+				<telefono>600000014</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000015-N</dni>
+				<nombre>Tommy</nombre>
+				<apellido>Caldwell</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Avenida del K2,61</direccion>
+				<telefono>600000015</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000016-S</dni>
+				<nombre>Angy</nombre>
+				<apellido>Eiter</apellido>
+				<nacionalidad>Austriaca</nacionalidad>
+				<direccion>Calle del Eiger</direccion>
+				<telefono>600000016</telefono>
+			</escalador>
+		</escaladores>
+	</rocodromo>
+	<rocodromo>
+		<cod_roc>R007</cod_roc>
+		<nombre>Indoorwall Leganes</nombre>
+		<direccion>Calle Severo Ochoa,19</direccion>
+		<telefono>916866660</telefono>
+		<m2>800</m2>
+		<escaladores>
+			<escalador>
+				<dni>00000017-O</dni>
+				<nombre>Jim</nombre>
+				<apellido>Reynolds</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Avenida del K2,100</direccion>
+				<telefono>600000017</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000018-P</dni>
+				<nombre>Sierra</nombre>
+				<apellido>Blair</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Calle del Capitan,12</direccion>
+				<telefono>600000018</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000019-Q</dni>
+				<nombre>Alex</nombre>
+				<apellido>Puccio</apellido>
+				<nacionalidad>Americana</nacionalidad>
+				<direccion>Calle del Capitan,23</direccion>
+				<telefono>600000019</telefono>
+			</escalador>
+			<escalador>
+				<dni>00000020-P</dni>
+				<nombre>Gerlinde</nombre>
+				<apellido>Kaltenbrunner</apellido>
+				<nacionalidad>Austriaca</nacionalidad>
+				<direccion>Avenida de los Alpes,50</direccion>
+				<telefono>600000020</telefono>
+			</escalador>
+		</escaladores>
+	</rocodromo>
+</rocodromos>
+

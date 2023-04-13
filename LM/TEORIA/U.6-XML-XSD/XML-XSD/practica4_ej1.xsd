@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/2001/XMLSchema">
+	<element name="notas">
+		<complexType mixed="true">
+			<sequence>
+				<element type="string" name="evaluacion" />
+				<element type="float" name="calificacion" />
+			</sequence>
+		</complexType>
+	</element>
+	
+	<sequence>
+		<attribute type="string" name="num_alumno" use = "required"/>
+		<attribute type="short" name="altura" use = "optional"/>
+		<attribute type="string" name="sexo" use = "optional"/>
+	</sequence>
+			
+</schema>

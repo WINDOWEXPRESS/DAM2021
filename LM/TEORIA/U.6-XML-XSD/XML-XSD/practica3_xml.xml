@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogoLibro  xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation ="practica3_xsd.xsd">
+	<libro>
+		<titulo>dghfg</titulo>
+		<autor>fgnvfn</autor>
+		<autor>AAAAA</autor>
+		<fecha>1998-02-10</fecha>
+		<ISBN>2165848525</ISBN>
+		<editor>fgjghm</editor>
+	</libro>
+	<libro>
+		<titulo>ghjgh</titulo>
+		<autor>dsrfhdfcgb</autor>
+		<fecha>2003-07-26</fecha>
+		<ISBN>148769468513</ISBN>
+		<editor>dhbcgncfghj</editor>
+	</libro>
+</catalogoLibro>

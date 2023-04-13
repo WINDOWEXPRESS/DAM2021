@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding="iso-8859-1"?>
+<!DOCTYPE libros [
+<!ELEMENT libros (libro+)>
+<!ELEMENT libro (titulo,autor+,isbn?,precio*)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+]>	
+<libros>
+	<libro>
+		<titulo>újjjjj</titulo>
+	    <autor>kkkk</autor>
+	    <isbn>bc-11111</isbn>
+		<precio>1.20</precio>
+	</libro>
+	<libro>
+		<titulo>ókkkkkkk</titulo>
+	    <autor>jjjjj</autor>
+		<autor>mmmmm</autor>
+	    <isbn>dd-11111</isbn>
+		<precio>1.45</precio>
+	</libro>
+	<libro>
+		<titulo>mmmmmmmmmmmm</titulo>
+	    <autor>bbbbbbbbb</autor>
+	    <precio>3.44</precio>
+	</libro>
+	<libro>
+		<titulo>ñññhhhhhh</titulo>
+	    <autor>gggggg</autor>
+	    <isbn>rr-3333</isbn>
+		<precio>6.6</precio>
+		<precio>5.6</precio>
+		
+	</libro>
+	<libro>
+		<titulo>hhhhhhh</titulo>
+	    <autor>ggggggg</autor>
+	    <isbn>tt-6666</isbn>
+	</libro>	
+</libros>

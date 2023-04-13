@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>consultas xslt</title>
+		<link rel="stylesheet" type="text/css" href="estilos.css"/>
+		
+	</head>
+		<body>
+		<div id="consultas">
+		<h1> CONSULTAS SOBRE DATOS XML </h1>
+			<ul>
+				<li><a href="pintor-1/Pintores.xml">PINTORES</a></li>
+				<li><a href="pintor-2/Pintores.xml"> MÁS DATOS PINTORES</a></li>
+				<li><a href="pintor-3/Pintores.xml"> PINTORES ORDENADOS POR APELLIDOS</a></li>
+				<li><a href="pintor-4/Pintores.xml"> DATOS DE DALI</a></li>
+				<li><a href="pintor-5/Pintores.xml">  PINTORES QUE NO SEAN DALI</a>      </li>
+				<li><a href="pintor-6/Pintores.xml"> PINTORES NACIDOS DESPUÉS DE 1700</a></li>
+				<li><a href="pintor-7/Pintores.xml">PINTORES NACIDOS ANTES DE 1700</a></li>
+				<li><a href="pintor-8/Pintores.xml"> PINTORES DESTACADOS POR FECHAS</a></li>
+				<li><a href="pintor-9/Pintores.xml"> DALI Y SUS CUADROS</a></li>
+			</ul>	
+		
+		</div>
+		</body>
+		</html>

@@ -1,0 +1,16 @@
+PARA EL EJERCICIO 1:
+  RegistroAutor.java  en él esta la clase con los métodos pedidos. 
+			Tiene algún metodo mas que es necesario.
+  
+  ej1.java      para comprobar que funciona. Luego si lo utilizamos en el 
+                ejercicio 3.
+  
+  ej2_b.java    ejercicio de temperaturas. Necesitamos la carpeta DATOS.
+  
+  ej3_b.java   Necesitamos los ficheros autor.txt y libro.txt
+       crearFichero.java pasamos el ficheros autor.txt a un fichero directo.
+       RegistroAutor.java, para separar y completar los registros.
+       Tres.java, en él van métodos que hemos utilizado para las opciones pedidas.
+
+  ej4_b.java  es el ejercicio de la cola. Dentro va una clase.
+                 

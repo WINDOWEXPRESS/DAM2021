@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.w3.org/2001/XMLSchema">
+	<element name="alumnos">
+		<complexType>
+			<sequence>
+				<element name="alumno" minOccurs="1" maxOccurs="unbounded">
+					<complexType>
+						<sequence>
+							<element name="nombre" type="string"/>
+							<element name="apellido1" type="string"/>
+							<element name="apellido2" type="string"/>
+							<element name="telefono" minOccurs="0" maxOccurs="2">
+								<complexType>
+									<simpleContent>
+										<extension base="integer">
+											<attribute name="tipo" use="required">
+												<simpleType>
+													<restriction base="string">
+														<enumeration value="movil"/>
+														<enumeration value="fijo"/>
+													</restriction>
+												</simpleType>
+											</attribute>
+											<attribute name="almacenado" use="required">
+												<simpleType>
+													<restriction base="string">
+														<enumeration value="propio"/>
+														<enumeration value="madre"/>
+														<enumeration value="padre"/>
+														<enumeration value="tutor"/>
+													</restriction>
+												</simpleType>
+											</attribute>
+										</extension>
+									</simpleContent>
+								</complexType>
+							</element>
+							<element name="equipo" type="string" minOccurs="0"/>
+							<element name="aficiones" type="string" minOccurs="0" maxOccurs="2"/>
+							<element name="origen">
+								<complexType>
+									<choice>
+										<element name="ciudad" type="string"/>
+										<element name="pais" type="string"/>
+									</choice>
+								</complexType>
+							</element>
+							<element name="notas">
+								<complexType mixed="true">
+									<sequence>
+										<element name="evaluacion" type="string"/>
+										<element name="calificacion" type="short"/>
+									</sequence>
+								</complexType>
+							</element>
+						</sequence>
+						<attribute name="num_alumno" type="string" use="required"/>
+						<attribute name="altura" type="integer" use="optional"/>
+						<attribute name="sexo" type="string" use="optional"/>
+						<attribute name="ayudado" type="string" use="optional"/>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
+	</element>
+</schema>

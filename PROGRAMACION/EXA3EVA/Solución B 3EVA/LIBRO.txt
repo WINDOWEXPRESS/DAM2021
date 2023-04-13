@@ -1,0 +1,392 @@
+1;"El león, la bruja y el armario";"Novela";"Planeta";6,23;32;1
+2;"El principe Caspian";"Novela";"Planeta";9,23;3;1
+3;"La última batalla";"Novela";"Planeta";6,78;12;1
+4;"El sobrino del mago";"Novela";"Planeta";7,23;43;1
+5;"La silla de plata";"Novela";"Planeta";7,68;4;1
+6;"El caballo y el muchacho";"Novela";"Planeta";5,12;13;1
+7;"El sobrino del mago";"Novela";"Planeta";7,12;8;1
+8;"Dios en el banquillo";"Ensayo";"RIALP";9,23;42;1
+9;"Cartas del diablo a su sobrino";"Sátira";"Planeta";10,45;12;1
+10;"Lo eterno sin disimulo";"Religioso";"RIALP";9,87;3;1
+11;"El manuscrito encontrado en accra";"Religioso";"Planeta";15,71;21;2
+12;"El Alquimista";"Novela";"Planeta";8,67;14;2
+13;"Once minutos";"Novela";"Planeta";9,43;8;2
+14;"El peregrino de compostela";"Novela";"Planeta";12,98;7;2
+15;"Amor";"Novela";"Planeta";9,87;29;2
+16;"Manual del guerrero de la luz";"Novela";"Planeta";21,76;35;2
+17;"Aleph";"Novela";"Planeta";6,91;6;2
+18;"Veronika decide morir";"Novela";"Planeta";4,89;41;2
+19;"Como el río que fluye";"Novela";"Planeta";5,96;7;2
+20;"Valquirias";"Novela";"Planeta";10,76;51;2
+21;"EL CODIGO DA VINCI";"NOVELA";"PLANETA";18,95;12;3
+22;"LA FORTALEZA DIGITAL";"NOVELA";"UMBRIEL";15,44;49;3
+23;"ANGELES Y DEMONIOS";"NOVELA";"UMBRIEL";18,95;64;3
+24;"EL SIMBOLO PERDIDO";"NOVELA";"PLANETA";26,13;51;3
+25;"LA CONSPIRACION";"NOVELA";"UMBRIEL";18,95;13;3
+26;"INFERNO";"NOVELA";"PLANETA";15,44;47;3
+27;"LOS DIAS DE BIRMANIA";"HISTÓRICO";"DEL VIENTO";19;23;4
+28;"HOMENAJE A CATALUÑA";"HISTÓRICO";"DEBATE";20,81;21;4
+29;"REBELION EN LA GRANJA";"HISTÓRICO";"AUSTRAL";6,60;45;4
+30;"1984";"HISTÓRICO";"SALAMANDRA";10,20;30;4
+31;"DIARIO DE GUERRA";"HISTÓRICO";"DEBOLSILLO";13,25;8;4
+32;"SUBIR A POR AIRE";"NOVELA";"ALFAGUARA";9,50;41;4
+33;"QUE NO MUERA LA ASPIDISTRA";"NOVELA";"BARCO DE VAPOR";12,30;72;4
+34;"LA HIJA DEL CLÉRIGO";"NOVELA";"PLANETA";11,35;31;4
+35;"EL CAMINO DE WIGAN PIER";"NOVELA";"SEIX BARRAL";20;12;4
+36;"SIN BLANCA EN PARÍS Y LONDRES";"NOVELA";"SALAMANDRA";19,80;26;4
+37;"ORWELL EN ESPAÑA";"HISTÓRICO";"UMBRIEL";22,50;39;4
+38;"MI GUERRA CIVIL ESPAÑOLA";"HISTÓRICO";"PLANETA";23;65;4
+39;"LA DIVINA COMEDIA";"DRAMA";"CATEDRA";8,95;21;21
+40;"LA VITA NUOVA";"POESÍA";"LOSADA";14,54;53;21
+41;"Hadji Murat";"NOVELA";"SM";13,99;23;6
+42;"Harry Potter y la piedra filosofal";"NOVELA";"Salamandra";9,99;23;5
+43;"Una vacante imprevista";"NOVELA";"OXFORD";24,99;12;5
+44;"La Muerte de Iván Ilich";"NOVELA";"OXFORD";6,90;3;6
+45;"El Padre Sergio";"NOVELA";"OXFORD";8,50;5;6
+46;"Infancia";"NOVELA";"ANAYA";8,99;7;5
+47;"Resurrección";"NOVELA";"ANAYA";11;33;6
+48;"Harry Potter y la cámara secreta";"NOVELA";"Salamandra";8,95;21;5
+49;"Harry Potter y el prisionero de Azk";"NOVELA";"Salamandra";9,99;2;5
+50;"Harry Potter y el cáliz de fuego";"NOVELA";"Salamandra";7,69;34;5
+51;"Harry Potter y el misterio del prín";"NOVELA";"Salamandra";10,50;1;5
+52;"Harry Potter y la orden del fénix";"NOVELA";"Salamandra";9,99;23;5
+53;"Harry Potter y las reliquias de la ";"NOVELA";"Salamandra";9,99;12;5
+54;"Animales fantásticos y dónde encont";"NOVELA";"OXFORD";5,99;11;5
+55;"Los cuentos de Beedle el bardo";"NOVELA";"SM";9,99;12;5
+56;"Adolescencia";"NOVELA";"SM";66,60;5;6
+57;"Los Cosacos";"NOVELA";"ANAYA";6,90;6;5
+58;"La Sonata a Kreutzer";"NOVELA";"OXFORD";1;4;6
+59;"Guerra y Paz";"NOVELA";"TEIDE";3,99;2;5
+60;"Anna Karénina";"NOVELA";"ANAYA";9,99;21;5
+61;"El príncipe de la niebla";"Novela juv.";"Planeta";8,50;85;7
+62;"El palacio de la medionoche";"Novela juv.";"Planeta";8,50;85;7
+63;"Las luces de septiembre";"Novela juv.";"Planeta";8,95;73;7
+64;"Marina";"Novela juv.";"Planeta";8,95;51;7
+65;"La sombra del viento";"Novela";"Planeta";10,95;56;7
+66;"El juego del ángel";"Novela";"Planeta";10,95;52;7
+67;"El prisionero del cielo";"Novela";"Planeta";16,90;54;7
+68;"El último trayecto de Horacio Dos";"Novela";"Seix barral";16;96;8
+69;"El enredo de la bolsa y la vida";"Novela";"Seix barral";18,50;125;8
+70;"Sin noticias de Gurb";"Novela";"Seix Barral";12;67;8
+71;"El asombroso viaje de Pomponio Flat";"Novela";"Seix Barral";14,94;83;8
+72;"La aventura del tocador de señoras";"Novela";"Seix Barral";19;102;8
+73;"El laberinto de las aceitunas";"Novela";"Seix Barral";18;92;8
+74;"La verdad sobre el caso Savolta";"Novela";"Seix Barral";13,95;99;8
+75;"Una comedia ligera";"Novela";"Seix Barral";20;24;8
+76;"El año del dilulvio";"Novela";"Seix Barral";6,95;24;8
+77;"La isla inaudita";"Novela";"Seix Barral";7,95;87;8
+78;"El misterio de la cripta embrujada";"Novela";"Seix Barral";6,95;67;8
+79;"Tres vidas de santos";"Novela";"Seix Barral";6,95;48;8
+80;"Mauricio o las elecciones primarias";"Novela";"Seix Barral";8,95;23;8
+81;"Flor de mayo";"Novela";"CATEDRA";11;6;70
+82;"La araña negra";"Novela";"ALIANZA";30;7;70
+83;"Entre naranjos";"Novela";"CATEDRA";11,50;3;70
+84;"La maja desnuda";"Novela";"CATEDRA";12;4;70
+85;"Sangre y arena";"Novela";"ALIANZA";11,30;6;70
+86;"Los cuatro jinetes del Apocalipsis";"Novela";"ALIANZA";9,90;7;70
+87;"Mare Nostrum";"Novela";"CATEDRA";12;5;70
+88;"La vuelta al mundo de un novelista";"Novela";"ALIANZA";11,50;4;70
+89;"Cuentos";"Novela";"CATEDRA";8,20;5;70
+90;"Los argonautas";"Novela";"ALIANZA";15;2;70
+91;"Pepita Jiménez";"Narrativa";"DEBOLSILLO";8,95;6;71
+92;"Juanita la Larga";"Narrativa";"AKAL";10,70;7;71
+93;"Genio y figura";"Narrativa";"AKAL";8,70;5;71
+94;"Pasarse de listo";"Narrativa";"DEBOLSILLO";7,95;4;71
+95;"La muñequita";"Narrativa";"DEBOLSILLO";6,95;5;71
+96;"La buena fama";"Narrativa";"AKAL";9,30;3;71
+97;"El pájaro verde";"Narrativa";"DEBOLSILLO";8,95;6;71
+98;"Parsondes";"Narrativa";"DEBOLSILLO";6,95;4;71
+99;"Doña Luz";"Narrativa";"DEBOLSILLO";8,95;3;71
+100;"CÁDIZ";"HISTÓRICA";"CATEDRA";12,50;6;30
+101;"La comedia del diablo";"Novela";"Harper Collins";25;50;11
+102;"Coyote Ble";"Novela";"La Factoria de";15;65;11
+103;"La Sanguijuela de Mi Niña";"Novela";"Harper Collins";12;94;11
+104;"Island of the Sequined Love Nun";"Novela";"La Factoria de";20;26;11
+105;"The Lust Lizard of Melancholy Cove";"Novela";"Harper Collins";25;57;11
+106;"Cordero, el evangelio según el mejo";"Novela";"La Factoria de";12;89;11
+107;"El Ángel Más Tonto del Mundo";"Novela";"Harper Collins";16;87;11
+108;"Un Trabajo Muy Sucio";"Novela";"Harper Collins";20;91;11
+109;"¡Chupate Esa!";"Novela";"La Factoria de";22;48;11
+110;"El bufón";"Novela";"Harper Collins";21;65;11
+111;"¡Muérdeme!";"Novela";"Harper Collins";18;91;11
+112;"The Primrose Path";"Novela";"Dover";14;46;12
+113;"The Snake's Pass";"Novela";"Anaya";9;48;12
+114;"The Watter's Mou'";"Novela";"Dover";11;45;12
+115;"The Shoulder of Shasta";"Novela";"Dover";12;12;12
+116;"Dracula";"Novela";"Anaya";24;2;12
+117;"Miss Betty";"Novela";"Dover";10;87;12
+118;"The Mystery of the Sea";"Novela";"Anaya";11;10;12
+119;"Lady Athlyne";"Novela";"Anaya";16;14;12
+120;"Lair of the White Worm";"Novela";"Anaya";7;88;12
+121;"Romeo y Julieta";"Tragedia";"ALIANZA";4,95;6;13
+122;"Hamlet";"Tragedia";"ALIANZA";29,50;7;13
+123;"Macbeth";"Tragedia";"ALIANZA";9,50;8;13
+124;"Otelo";"Tragedia";"ALIANZA";8,95;7;13
+125;"La tempestad";"Teatro";"ALIANZA";8,50;6;13
+126;"Sueño de una noche de verano";"Comedia";"ALIANZA";8,50;5;13
+127;"El mercader de Venecia";"Comedia";"LOSADA";8,20;4;13
+128;"Como gustéis";"Comedia";"LOSADA";8;3;13
+129;"Pericles";"Comedia";"LOSADA";8;5;13
+130;"La fierecilla domada";"Comedia";"LOSADA";10,50;3;13
+131;"El amor en los tiempos de cólera";"Novela";"DEBOLSILLO";9,95;6;10
+132;"Cien años de soledad";"Novela";"DEBOLSILLO";8,95;4;10
+133;"Crónica de una muerte anunciada";"Novela";"DEBOLSILLO";6,95;7;10
+134;"Relato de un náufrago";"Novela";"DEBOLSILLO";4,90;5;10
+135;"Memoria de mis putas tristes";"Novela";"DEBOLSILLO";6,95;4;10
+136;"El general en su laberinto";"Novela";"DEBOLSILLO";7,95;3;10
+137;"Doce cuentos peregrinos";"Novela";"MONDADORI";16,90;6;10
+138;"Vivir para contarla";"Novela";"MONDADORI";19,10;5;10
+139;"El otoño del patriarca";"Novela";"MONDADORI";17,20;3;10
+140;"Del amor y otros demonios";"Novela";"MONDADORI";18,30;4;10
+141;"ATRAPAME A ESE MONO";"NOVELA";"ALIANZA EDITORI";9,50;6;15
+142;"LA SELVA BORRACHA";"NOVELA";"ALIANZA EDITORI";9,50;4;15
+143;"ARCA SOBRECARGADA";"NOVELA";"ALIANZA EDITORI";8,50;4;15
+144;"MURCIELAGOS DORADOS Y PALOMAS ROSAS";"NOVELA";"ALIANZA EDITORI";8,50;5;15
+145;"FILETES DE LENGUADO";"NOVELA";"ALIANZA EDITORI";9,50;6;15
+146;"UN ZOOLOGICO EN MI AZOTEA";"NOVELA";"ALIANZA EDITORI";9,50;12;15
+147;"UN ZOO EN LA ISLA";"NOVELA";"LABOR";14;3;15
+148;"EL JARDIN DE LOS DIOSES";"NOVELA";"ALIANZA EDITORI";12,50;4;15
+149;"TRES BILLETES HACIA LA AVENTURA";"NOVELA";"ALIANZA EDITORI";8,50;5;15
+150;"LA BUENA TIERRA";"NOVELA";"DEBOLSILLO";8,95;6;16
+151;"LA MADRE";"NOVELA";"DEBOLSILLO";8,95;5;16
+152;"EL ANGEL LUCHADOR";"NOVELA";"PLAZA & JANES";15;1;16
+153;"LA EXILIADA";"NOVELA";"PLANETA";18;1;16
+154;"PEONIA";"NOVELA";"PLANETA";13;1;16
+155;"LA NOVELA EN CHINA";"NOVELA";"ALIANZA EDITORI";10,65;1;16
+156;"PABELLON DE MUJERES";"NOVELA";"PUNTO DE LECTUR";9,99;4;16
+157;"LA ESTIRPE DEL DRAGON";"NOVELA";"DEBOLSILLO";9,95;2;16
+158;"LAS TRES HIJAS DE MADAME LIANG";"NOVELA";"HERCE EDITORES";20;6;16
+159;"VIENTO DEL ESTE, VIENTO DEL OESTE";"NOVELA";"DEBOLSILLO";7,95;2;16
+160;"LA GRAN DAMA";"NOVELA";"ALIANZA EDITORI";7,06;3;16
+161;"La Ciudad De Las Bestias";"Juvenil";"Plaza & Janes";15,50;15;17
+162;"El Reino Del Dragon De Oro";"Juvenil";"Plaza & Janes";19,50;10;17
+163;"El Bosque De Los Pigmeos";"Aventura";"Sudamericana";22;49;17
+164;"La Isla Bajo El Mar";"Novela";"Plaza & Janes";7,95;22;17
+165;"El Cuaderno De Maya";"Novela";"Sudamericana";12,50;5;17
+166;"Hija De La Fortuna";"Novlea";"HarperCollins";7,99;1;17
+167;"La Casa De Los Espiritus";"Novela";"Sudamericana";5,49;6;17
+168;"Eva Luna";"Novela";"Debolsillo";5,49;5;17
+169;"El Zorro: Comienza La Leyenda";"Juvenil";"HarperCollins";6,59;4;17
+170;"La Suma De Los Dias";"Autobiografi";"Random House";29,90;3;17
+171;"Los Juegos Del Hambre";"Aventura";"Scholastic";17,49;15;18
+172;"En Llamas";"Novela";"Scholastic";25,49;20;18
+173;"Sinsajo";"Novela/Accio";"Scholastic";29,99;70;18
+174;"Gregor, La profecía final";"Ciencia Ficc";"Molino";14,99;6;18
+175;"Gregor, El oscuro secreto";"Ciencia Ficc";"Molino";12,49;2;18
+176;"Gregor, La gran plaga";"Ciencia Ficc";"Molino";15,29;0;18
+177;"Gregor, La segunda profecía";"Ciencia Ficc";"Molino";12,29;1;18
+178;"Gregor, Las tierras bajas";"Ciencia Ficc";"Molino";9,49;6;18
+179;"Gregor y el Código de la Zarpa";"Ciencia Ficc";"Molino";7,49;8;18
+180;"Gregor y las Marcas del Secreto";"Ciencia Ficc";"Molino";9,99;2;18
+181;"El bermejino prehistórico";"Narrativa";"AKAL";10,70;5;71
+220;"Refugio del viento";"Novela";"sm";12;24;24
+221;"El rag del Armagedón";"Novela";"Destino";12;12;24
+222;"Los viajes de Tuf";"Novela";"sm";12;45;24
+223;"Hunter's Run";"Novela";"Gredos";12;12;24
+224;"Canción de hielo y fuego";"Novela";"Destino";15;35;24
+225;"Cuentos de Dunk y Egg";"Novela";"Gredos";13;5;24
+226;"Una canción para Lya";"Novela";"Gredos";12;6;24
+227;"El caballero errante";"Novela";"Gigamesh";10;35;24
+228;"Juego de tronos";"Novela";"Destino";10;7;24
+229;"Metro 2033";"Novela";"Milenio";16;4;23
+230;"Metro 2034";"Novela";"Milenio";15;2;23
+231;"Sumerki";"Novela";"Milenio";10;1;23
+232;"Obituary: Death Of Chas. Darwin";"Novela";"sm";8;5;22
+233;"El hombre y su influencia";"Novela";"DeBolsillo";7;4;22
+234;"Charles Darwin: vol. 1";"Novela";"Gigamesh";16;15;22
+235;"Charles Darwin: vol. 2";"Novela";"DeBolsillo";16;13;22
+236;"Charles Darwin's Beagle Diary";"Novela";"Gigamesh";8;2;22
+237;"The red notebook of Charles Darwin";"Novela";"DeBolsillo";10;8;22
+238;"Journal";"Novela";"DeBolsillo";12;9;22
+239;"Zoology 3";"Novela";"DeBolsillo";24;7;22
+240;"Muerte de la luz";"Novela";"Planeta";12;8;24
+261;"A SOLAS CON DIOS";"Biografía";"analele";25;10;27
+262;"100 MEDITACIONES EN PRISIÓN";"Biografía";"analele";15;11;27
+263;"MÁS QUE GANADOR";"Biografía";"analele";18;12;27
+264;"EN DIOS SUMERGIDO";"Biografía";"analele";25;10;27
+265;"BORRACHO DE AMOR";"Biografía";"analele";12;6;27
+266;"PREDICACIÓN EN UNA CELDA SOLITARIA";"Biografía";"analele";14;5;27
+267;"LA NOBLEZA DEL SUFIMIENTO";"Biografía";"analele";14;5;27
+268;"TORTURADO POR CRISTO";"Biografía";"analele";8;9;27
+269;"EL LLANTO DE LA IGLESIA PERSEGUIDA";"Poema";"analele";10;9;27
+270;"LA ESPOSA DEL PASTOR";"Biografía";"analele";10;4;27
+271;"CLANES DE INTRIGA";"Novela";"zhuhai";15;12;28
+272;"ESPADACHÍN SENTIMENTAL";"Novela";"fensha";8;2;28
+273;"CLAN DEL AMAZONAS";"Novela";"tangchao";6,50;4;28
+274;"LOS GEMELOS ORGULLOSOS";"Novela";"fensha";7,75;11;28
+275;"EL ESPÍRITU DE LA ESPADA";"Novela";"zhuhai";12,25;3;28
+276;"LA DENUNCIA DE CHU LIU XIANG";"Novela";"bailiang";13;10;28
+277;"THE LEGEND OF BROKEN SWORD";"Novela";"xueyue";18;14;28
+278;"EL DUELO DEL SIGLO";"Novela";"zhuhai";22;8;28
+279;"BUTTERFLY AND SWORD";"Novela";"xigua";19;6;28
+280;"LOS HERMANOS GUAPOS";"Novela";"xueyue";5;9;28
+281;"TRES LEYENDAS INDIAS";"POESÍA";"PARÉNTESIS";11,40;5;29
+282;"RIMAS Y LEYENDAS";"POESÍA";"ESPASA";15,50;6;29
+283;"CARTAS DESDE MI CELDA";"POESÍA";"CATEDRA";7,84;2;29
+284;"RIMAS";"POESÍA";"EDAF";12,59;3;29
+285;"EL MONTE DE LAS ÁNIMAS";"CUENTOS";"EL PAÍS-AGUILAR";9,02;5;29
+286;"LA CRUZ DEL DIABLO";"CUENTOS";"SANTILLANA";14,50;3;29
+287;"EL GNOMO";"CUENTO";"ALFAR";15,30;5;29
+288;"LEYENDAS";"CUENTO";"ESPASA-CALPE";6,50;5;29
+289;"MEMORIAS DE UN PAVO";"CUENTO";"COLIHUE";7,87;8;29
+290;"FORTUNATA Y JACINTA II";"NARRATIVA";"ALFAGUARA";13;7;30
+291;"SANTA JUANA DE CASTILLA";"TEATRO";"FRAGUA";12;9;30
+292;"CÁNOVAS";"HISTÓRICA";"ALIANZA";8,50;9;30
+293;"BODAS REALES";"HISTÓRICA";"ALIANZA";8,50;6;30
+294;"DE OÑATE A LA GRANJA";"HISTÓRICA";"ALIANZA";9,55;4;30
+295;"LA CORTE DE CARLOS IV";"HISTÓRICA";"ALIANZA";14,90;6;30
+296;"ZARAGOZA";"HISTÓRICA";"AGUILAR";6,77;3;30
+297;"LA FONTANA DE ORO";"NARRATIVA";"AGUILAR";11,50;6;30
+298;"EL 19 DE MARZO Y EL 2 DE MAYO";"HISTÓRICA";"AGULAR";14,90;6;30
+299;"DE OÑATE A LA GRANJA";"HISTÓRICA";"ALIANZA";9,50;5;30
+321;"El resplandor";"NOVELA";"DOUBLEDAY";16,20;6;33
+322;"Cujo";"NOVELA";"Viking Press";18,60;5;33
+323;"Apocalipsis";"NOVELA";"ANUBIS";21,60;6;33
+324;"The Dark Half";"NOVELA";"Viking Press";12,30;8;33
+325;"Insomnia";"NOVELA";"DOUBLEDAY";17,25;67;33
+326;"Colorado Kid";"NOVELA";"Viking Press";5,65;14;33
+327;"La Cúpula";"NOVELA";"ANUBIS";12,68;6;33
+328;"La tormenta del siglo";"NOVELA";"Viking Press";14,63;51;33
+329;"Buick 8 Un Coche Perverso";"NOVELA";"ANUBIS";15,68;20;33
+330;"Doctor Sleep";"NOVELA";"DOUBLEDAY";16,25;35;33
+331;"Cell";"NOVELA";"ANUBIS";12,38;145;33
+332;"Desesperación";"NOVELA";"DOUBLEDAY";14,39;81;33
+333;"Dolores Claiborne";"NOVELA";"Viking Press";35,62;4;33
+334;"Los ojos del dragón";"NOVELA";"ANUBIS";100;48;33
+335;"El hombre en busca de sentido";"NOVELA";"ANUBIS";35,45;63;34
+336;"Lo que no esta escrito en mis libro";"NOVELA";"DOUBLEDAY";10;25;34
+337;"Psicoterapia y existencialismo: esc";"NOVELA";"DOUBLEDAY";12,36;45;34
+338;"La idea psicológica del hombre";"NOVELA";"Viking Press";52;21;34
+339;"Logoterapia y análisis existencial";"NOVELA";"Viking Press";99,99;10;34
+340;"Pupila de águila";"Novela";"SM";15,25;12;35
+341;"El rostro de la sombra";"Novela";"SM";10,50;16;35
+342;"Dos problemas y medio";"Novela";"BAMBU EDITORIAL";10,25;12;35
+343;"El ave del amanecer";"Aventuras";"EDEBE";8,30;15;35
+344;"El botín de Atolondrado";"Aventuras";"EDELVIVES";8,25;15;35
+345;"Manolo multón y el mago guason";"Cuento";"EDEBE";7,25;7;35
+346;"Historia de un colmillo";"Aventuras";"EVEREST";7,75;17;35
+347;"El ratón de Laviana";"Aventuras";"SM";7,50;11;35
+348;"La foca del arcoiris";"Aventuras";"SM";7,75;13;35
+349;"El tesoro más preciado del mundo";"Novela";"SM";7,90;18;35
+350;"La vida es sueño";"Drama";"RBA";8,50;3;36
+351;"El medico de su honra";"Novela";"SM";10,25;9;36
+352;"A secreto agravio, secreta venganza";"Suspense";"ALFAGUARA";8,50;5;36
+353;"La hija del aire";"Comedia";"BRUÑO";7,25;12;36
+354;"El hijo del sol";"Aventuras";"EDEBE";7,25;14;36
+355;"El monstruo de los jardines";"Aventuras";"EDEBE";13,75;1;36
+356;"La dama duende";"Drama";"EDELVIVES";12,50;18;36
+357;"El gran mercado del mundo";"Aventuras";"SM";11,25;13;36
+358;"La cena del rey Baltasar";"Novela";"SM";16,50;6;36
+359;"Eco y Narciso";"Novela";"ALFAGUARA";6,25;14;36
+360;"El verdadero dios Pan";"Drama";"GRAN ANGULAR";10,50;5;36
+401;"TRES METROS Sobre el cielo";"novela";"planeta";20,99;26;23
+402;"tengo ganas de ti";"novela";"planeta";25,99;10;23
+403;"esta noche dime que me quieres";"novela";"planeta";20,99;22;23
+404;"carolina se enamora";"novela";"planeta";17,99;10;23
+405;"perdona si te llamo amor";"novela";"planeta";19,99;4;23
+406;"perdona pero quiero casarme contigo";"novela";"planeta";20,99;20;23
+407;"perdona pero quiero irme a roma con";"novela";"planeta";20,99;55;23
+408;"el paseo";"novela";"planeta";20,99;25;23
+409;"aquesta nit digues que m estimes";"novela";"planeta";20,99;4;23
+410;"El estudio escarlata";"novela";"alianza";10,10;20;24
+411;"El sabueso de baskerville";"novela";"alianza";20;20;24
+412;"El signo de los cuatro";"novela";"alianza";10,15;10;24
+413;"La banda de los lunares";"novela";"alianza";10,25;20;24
+414;"El valle del terror";"novela";"alianza";20,12;20;24
+415;"El escándalo de bohemia";"novela";"alianza";20,20;20;24
+416;"La liga de los pelirrojos";"novela";"alianza";10,15;20;24
+417;"Las cinco semillas de naranja";"novela";"alianza";20,14;15;24
+418;"los seis napoleones";"novela";"alianza";20,15;40;24
+419;"Estrella de plata";"novela";"alianza";10,60;20;24
+420;"EL PROBLEMA FINAL";"NOVELA";"alianza";20,20;10;24
+421;"MARGARITA LA TORNERA";"Novela";"Catedra";7;12;46
+422;"LA pasionaria";"Novela";"Anaya";9;5;46
+423;"sancho garcia";"Novela";"Anaya";12;6;46
+424;"el zapatero y el rey";"Poesia";"Anaya";15;23;46
+425;"a la memoria de larra";"Ensayo";"Teide";7;45;46
+426;"la azucena silvestre";"Ensayo";"Teide";17;23;46
+427;"la princesa doña luz";"Teatro";"Catedra";18;65;46
+428;"don juan tenorio";"Teatro";"Akal";12;99;46
+429;"El capitán Montoya";"Novela";"Akal";6;90;46
+431;"rimas sacras";"Novela";"Akal";10;115;9
+432;"romancero espiritual";"Novela";"Catedra";12;65;9
+433;"la dragontea";"Novela";"SM";12;344;9
+434;"el isidro";"Novela";"SM";8;54;9
+435;"fiestas de denia";"Novela";"Anaya";11;76;9
+436;"la jerusalén conquistada";"Poesia";"Catedra";8;98;9
+437;"la arcadia";"Ensayo";"Catedra";6;9;9
+438;"pastores de belen";"Teatro";"Catedra";9;80;9
+439;"la dorotea";"Teatro";"Akal";8;98;9
+440;"las ferias de madrid";"Novela";"Teide";12;98;9
+448;"fábula de píramo y tisbe";"POESÍA";"alianza editori";9,05;54;47
+449;"la firmeza de isabela";"TEATRO";"alianza editori";11;65;47
+450;"soledades";"POESÍA";"alianza editori";5,99;34;47
+451;"ándeme yo caliente";"POESÍA";"alianza editori";12,25;78;47
+452;"Servía en Orán al rey";"POESÍA";"alianza editori";7,05;32;47
+453;"con marfisa en la estacada";"POESÍA";"alianza editori";5,95;21;47
+454;"de la florida falda";"POESÍA";"alianza editori";17;45;47
+455;"la dulce boca que a gusta convida";"POESÍA";"alianza editori";15,99;54;47
+456;"amarrado al duro blanco";"POESÍA";"alianza editori";21;23;47
+457;"Guarda corderos, zagala";"POESÍA";"alianza editori";12,75;87;47
+458;"ilustre y hermosísima María";"POESÍA";"alianza editori";9,85;46;47
+459;"ya besando unas manos cristalinas";"POESÍA";"alianza editori";7,99;56;47
+460;"en forma elegante, oh peregrino";"POESÍA";"alianza editori";8,15;34;47
+461;"cuatro o seis desnudos hombros";"POESÍA";"alianza editori";9,95;43;47
+501;"POR SIEMPRE";"NOVELA";"PLAZA & JANES E";9;5;51
+502;"UNA ROSA EN INVIERNO";"NOVELA";"PLAZA & JANES E";10;6;51
+503;"SHANNA";"NOVELA";"DEBOLSILLO";10;10;51
+504;"BODAS A MEDIA NOCHE";"NOVELA";"BOOKS4POCKET";9;2;51
+505;"PACTO DE AMOR";"NOVELA";"DEBOLSILLO";10;12;51
+506;"LA LLAMA Y LA FLOR";"NOVELA";"DEBOLSILLO";9;7;51
+507;"LA FRAGIL LLAMA DEL AMOR";"NOVELA";"DEBOLSILLO";40;6;51
+508;"MENTIRAS Y SECRETOS";"NOVELA";"PLAZA & JANES";15;20;51
+509;"PARA SIEMPRE EN TUS BRAZOZ";"NOVELA";"PLAZA & JANES";19;21;51
+510;"AMARAS A UN EXTRAÑO";"NOVELA";"DEBOLSILLO";9;23;51
+511;"SIEMPRE HEMOS VIVIDO EN EL CASTILLO";"NOVELA";"MINUSCULA";18;10;52
+512;"LA MALDICION DE HIL HOUSE";"NOVELA";"VALDEMAR";22;5;52
+513;"LA NOVELA NEGRITA EN HISPANOAMERICA";"NOVELA";"PLIEGOS";23;40;52
+514;"THE LOTTERY";"NOVELA";"PENGUIN";11;3;52
+515;"ABBIAMO SEMPRE VISSUTO NEL CASTELLO";"NOVELA";"ADELHPI";25;17;52
+516;"STICKER SWAPS (READ WITH LADYBIRD, ";"NOVELA";"LADYBIRD BOOK";4;20;52
+517;"THE TOOTH";"NOVELA";"PEBGUIN";4;27;52
+518;"LA LOTTERIA";"NOVELA";"ADELHPI";10;26;52
+581;"Juego de Tronos";"Novela";"Gigamesh";24,72;8;42
+582;"Choque de Reyes";"Novela";"Gigamesh";28,5;7;42
+583;"Tormenta de Espadas";"Novela";"Gigamesh";30,45;7;42
+584;"Festín de Cuervos";"Novela";"Gigamesh";26,65;7;42
+585;"Danza de Dragones";"Novela";"Gigamesh";30,45;7;42
+586;"Vientos de Invierno";"Novela";"Gigamesh";35,95;7;42
+587;"A dream of Spring";"Novela";"Gigamesh";39,99;7;42
+589;"Muerte de la Luz";"Novela";"Gigamesh";17,15;7;42
+590;"Sueño del Fevre";"Novela";"Gigamesh";18,95;7;42
+591;"Los viajes de Tuf";"Novela";"Byblos";18,52;7;42
+592;"El retrato de Dorian Gray";"Novela";"Treviana";35,95;7;41
+593;"De profundis";"Epístola";"Losada";12,55;7;41
+594;"El ruiseñor y la rosa";"Cuento";"Espasa-Cape";1,98;7;41
+595;"El príncipe feliz";"Cuento";"Alianza";8,05;7;41
+596;"El crítico artista";"Ensayo";"Rey Lear";19,65;7;41
+597;"El fantasma de Canterville";"Cuento";"Anaya";8,65;7;41
+598;"El secreto de la vida";"Ensayo";"Lumen";23,98;7;41
+599;"Salomé";"Teatro";"Alianza";8,75;7;41
+600;"Un marido ideal";"Teatro";"Losada";6,99;7;41
+601;"Soneto X";"Poema";"Ariel";6;2;62
+602;"El Buscon";"Picaresca";"Aldevara";26;7;61
+603;"""El Brocense""";"poema";"Cathedra";6;5;62
+604;"Vida de Santo Tomás de Villanueva";"Ascetica";"Anaya";15;4;61
+605;"Soneto I";"Poema";"Ariel";6;4;62
+606;"El chitón de Tarabillas";"Politicas";"Vicens Vives";24;6;61
+607;"Soneto II";"Poema";"Ariel";3;3;62
+608;"La Perinola";"Critica";"Anaya";7;9;61
+609;"Soneto III";"Poema";"Ariel";6;3;62
+610;"Vida de San Pablo";"Ascetica";"Cathedra";20;2;61
+611;"Soneto IV";"Poema";"Ariel";6;2;62
+612;"Cuento de cuentos";"Critica";"Alianza";12;8;61
+613;"Soneto V";"Poema";"Ariel";6;9;62
+614;"Sueños y discursos";"Prsosa";"La Pata";18;4;61
+615;"Soneto VI";"Poema";"Ariel";6;5;62
+616;"Mundo caduco y desvaríos de la edad";"Politica";"Cathedra";10;7;61
+617;"Soneto VII";"Poema";"Ariel";6;6;62
+618;"El Sueño del Infierno";"Prosa";"Planeta";8;4;61
+619;"Soneto VIII";"Poema";"Ariel";6;4;62
+620;"El Rómulo";"Traducciones";"Santillana";23;5;61
+1021;"El prisionero en el infierno";"NOVELA";"ALIANZA EDITORI";170;2;7

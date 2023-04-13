@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!--La línea xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance
+" indica que queremos utilizar los elementos definidos en 
+http://www.w3.org/2001/XMLSchema-instance 
+La línea xsi:noNamespaceSchemaLocation = "coches1.xsd"
+ indica que vamos a usar ese fichero que contiene el XSChema,
+ pero sin asociar un espacio de nombres a esas definiciones. 
+ Sin esta línea, no tendremos esquema de validación. 
+-->
+<vehiculos
+    xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation = "coches1.xsd"  >
+        <nombre>coche</nombre>
+        <nombre>moto</nombre>
+        <nombre>carro</nombre>
+</vehiculos>

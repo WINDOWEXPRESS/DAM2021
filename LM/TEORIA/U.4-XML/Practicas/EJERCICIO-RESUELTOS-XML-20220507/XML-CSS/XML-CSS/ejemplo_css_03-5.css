@@ -1,0 +1,15 @@
+biblioteca {
+  display: table;
+  border-spacing: 10px;
+  border: red 5px solid;
+}
+
+libro {
+  display: table-row;
+}
+
+titulo, autor, fechaPublicacion {
+  border: blue 3px solid;
+  display: table-cell;
+
+}

@@ -1,0 +1,13 @@
+<!--En cuanto a la definición del XSchema: 
+La línea xmlns:xsd = "http://www.w3.org/2001/XMLSchema" 
+indica que todos los elementos del XSchema se nombrarán con el prefijo xsd:. 
+-->
+<schema xmlns = "http://www.w3.org/2001/XMLSchema">
+    <element name = "vehiculos">
+       <complexType>
+         <sequence>
+            <element name = "nombre" type = "string" maxOccurs = "unbounded"/>
+         </sequence>
+       </complexType>
+    </element>
+</schema>

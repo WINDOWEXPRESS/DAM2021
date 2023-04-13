@@ -1,0 +1,28 @@
+import java.util.*;
+public class H7E6{
+	public static void main (String[]args){
+		String fraseSE="";
+		String array [] = new String [1];
+
+		Scanner dato = new Scanner (System.in);
+		System.out.print("introducir una cadena y averiguar si es un Palíndromo: ");
+		String frase = dato.nextLine();
+		array[0]= frase;
+		
+		
+	}
+	public static boolean Palindromo(String frase){
+		for (int i=0;i<frase.length();i++){
+			if(frase.charAt(i)!=' '){
+				fraseSE=fraseSE+frase.charAt(i);
+			}
+		}
+		fraseSE=fraseSE.toLowerCase();
+		for (int j=0; k = fraseSE.length()-1;j<=k;j++;k--){
+			if (fraseSE.charAt(j) != fraseSE.charAt(j)){
+				return false;
+			}
+		}return true;
+	}
+
+}

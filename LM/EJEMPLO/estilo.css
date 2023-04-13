@@ -1,0 +1,31 @@
+div {	width: auto;
+	height: 200px;
+	margin: 20px;
+	padding: 10px;
+	border: 1px dashed black;
+	float: left;	
+	}
+
+/* Jugando con la propiedad overflow */	
+
+div.caja1 {
+	overflow: visible;
+	
+	}
+	
+div.caja2 {
+	overflow: hidden;
+	}
+	
+div.caja3 {
+	overflow: scroll;
+	}
+	
+/* Jugando con la propiedad clip */
+
+div.caja4 {
+	position: absolute;
+	top: 10;
+	left: 750px;
+	clip: rect(0 150px 150px 0);
+	}

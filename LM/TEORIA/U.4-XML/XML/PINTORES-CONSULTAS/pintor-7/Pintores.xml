@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pintor7.xsl"?>
+<pintores>
+	<pintor>
+		<cod_pintor>P001</cod_pintor>
+		<nombre>Diego</nombre>
+		<apellidos>Velázquez</apellidos>
+		<año_nacimiento>1599</año_nacimiento>
+		<pais>España</pais>
+		<estilo>Barroco</estilo>
+		<cuadros>
+			<cuadro>
+				<cod_cuadro>C001</cod_cuadro>
+				<nombre>Las meninas</nombre>
+				<año>1656</año>
+				<dimensiones>318x276</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="museo">Museo del Prado, Madrid</museo>
+			</cuadro>
+			<cuadro>
+				<cod_cuadro>C002</cod_cuadro>
+				<nombre>La fragua de Vulcano</nombre>
+				<año>1630</año>
+				<dimensiones>223x290</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="museo">Museo del Prado, Madrid</museo>
+			</cuadro>
+			<cuadro>
+				<cod_cuadro>C003</cod_cuadro>
+				<nombre>Venus del espejo</nombre>
+				<año>1674</año>
+				<dimensiones>122x177</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="museo">National Gallery, Londres</museo>
+			</cuadro>
+			<cuadro>
+				<cod_cuadro>C004</cod_cuadro>
+				<nombre>Cristo crucificado</nombre>
+				<año>1632</año>
+				<dimensiones>250x170</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="museo">Museo del Prado, Madrid</museo>
+			</cuadro>
+		</cuadros>	
+	</pintor>
+	<pintor>
+		<cod_pintor>P002</cod_pintor>
+		<nombre>Salvador</nombre>
+		<apellidos>Dalí</apellidos>
+		<año_nacimiento>1904</año_nacimiento>
+		<pais>España</pais>
+		<estilo>Surrealismo</estilo>
+		<cuadros>
+			<cuadro>
+				<cod_cuadro>C005</cod_cuadro>
+				<nombre>La persistencia de la memoria</nombre>
+				<año>1931</año>
+				<dimensiones>24x33</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="museo">Museo de Arte Moderno de Nueva York</museo>
+			</cuadro>
+			<cuadro>
+				<cod_cuadro>C006</cod_cuadro>
+				<nombre>La tentación de San Antonio</nombre>
+				<año>1946</año>
+				
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="museo">Museos reales de Bellas Artes de Bélgica, Bruselas</museo>
+			</cuadro>
+			<cuadro>
+				<cod_cuadro>C007</cod_cuadro>
+				<nombre>Cristo cruficicado</nombre>
+				<año>1951</año>
+				<dimensiones>205x116</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="privada">Museo Kelvingrove, Glasgow</museo>
+			</cuadro>
+		</cuadros>	
+	</pintor>
+	<pintor>
+		<cod_pintor>P003</cod_pintor>
+		<nombre>Francisco</nombre>
+		<apellidos>Goya</apellidos>
+		<año_nacimiento>1746</año_nacimiento>
+		<pais>España</pais>
+		<estilo>Barroco</estilo>
+		<cuadros>
+			<cuadro>
+				<cod_cuadro>C008</cod_cuadro>
+				<nombre>Cristo crucificado</nombre>
+				<año>1780</año>
+				<dimensiones>255x154</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="museo">Museo del Prado, Madrid</museo>
+			</cuadro>
+			<cuadro>
+				<cod_cuadro>C009</cod_cuadro>
+				<nombre>La maja desnuda</nombre>
+				<año>1795</año>
+				
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="museo">Museo del Prado, Madrid</museo>
+			</cuadro>
+			<cuadro>
+				<cod_cuadro>C010</cod_cuadro>
+				<nombre>La maja vestida</nombre>
+				<año>1800</año>
+				<dimensiones>95x188</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="privada">Museo del Prado, Madrid</museo>
+			</cuadro>
+				<cuadro>
+				<cod_cuadro>C011</cod_cuadro>
+				<nombre>La familia de Carlos IV</nombre>
+				<año>1800</año>
+				<dimensiones>280x336</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="museo">Museo del Prado, Madrid</museo>
+			</cuadro>
+		</cuadros>	
+	</pintor>
+	
+	<pintor>
+		<cod_pintor>P006</cod_pintor>
+		<nombre>Alberto</nombre>
+		<apellidos>Durero</apellidos>
+		<año_nacimiento>1471</año_nacimiento>
+		<pais>Alemania</pais>
+		<estilo>Renacentista</estilo>
+		<cuadros>
+			<cuadro>
+				<cod_cuadro>C019</cod_cuadro>
+				<nombre>Autorretrato</nombre>
+				<año>1498</año>
+				<dimensiones>52x41</dimensiones>
+				<tecnica>Óleo sobre lienzo</tecnica>
+				<museo coleccion="privada">Museo del Prado, Madrid</museo>
+			</cuadro>
+			<cuadro>
+				<cod_cuadro>C020</cod_cuadro>
+				<nombre>Adan y Eva</nombre>
+				<año>1507</año>
+				<dimensiones>209x80</dimensiones>
+				<tecnica>Óleo sobre tabla</tecnica>
+				<museo coleccion="museo">Museo del Prado, Madrid</museo>
+			</cuadro>
+			<cuadro>
+				<cod_cuadro>C021</cod_cuadro>
+				<nombre>Autorretrato</nombre>
+				<año>1500</año>
+				
+				<tecnica>Óleo sobre tabla</tecnica>
+				<museo coleccion="privada">Alte Pinakothek, Múnich</museo>
+			</cuadro>
+		</cuadros>	
+	</pintor>
+		
+	
+</pintores>
