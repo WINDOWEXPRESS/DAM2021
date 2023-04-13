@@ -1,0 +1,17 @@
+DIAGRAMAS DE CLASE:
+ejercicio sencillo paso a paso para empezar y luego complica. tiene más tipos de diagramas
+https://joanpaon.wordpress.com/2013/07/01/uml-diagrama-de-clases-ejercicio-1/
+https://joanpaon.wordpress.com/2013/07/24/uml-diagrama-de-clases-ejercicio-2/
+
+El de bibliografía del libro (scripbd): idoc.pub_ejercicios-resueltos-de-diagramas-de-clases-uml
+Carlos III: ejercicios_modelado Universidad Carlos III
+Salamanca: EJERCICIOS_ENUNCIADOS_Y_SOLUCIONES UML DOCPLAYER
+
+CASOS DE USO
+bajado, tiene tb relaciones entre actores y entre casos de uso
+http://www.lsi.us.es/~javierj/cursos_ficheros/metricaUML/CasosUsoUML.pdf
+
+otros ejercicios sencillos
+https://senadsi2014.wordpress.com/21-ejemplos-y-ejercicios-resueltos-de-diagramas-de-caso-de-uso/
+terminar con ejercicios complejos
+https://diagramasuml.com/casos-de-uso/

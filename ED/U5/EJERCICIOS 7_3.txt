@@ -1,0 +1,16 @@
+Diagramas de estado. Teoría:
+
+Resumen
+
+https://github.com/jamj2000/DAW1-ED-Apuntes/blob/master/6.DIAGRAMAS_COMPORTAMIENTO.md#diagramas-de-estados
+
+Más detallada:
+
+ http://ocw.uc3m.es/ingenieria-informatica/metodologia-de-desarrollo-visual/course-files/material-del-tema-8/at_download/file
+
+
+
+Ejercicios: última página del documento y representarlo con papyrus
+
+https://github.com/statickidz/TemarioDAW/blob/master/EED/ED6.pdf
+
