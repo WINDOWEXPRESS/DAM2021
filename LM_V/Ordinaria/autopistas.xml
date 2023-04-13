@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<paneles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="autopistas.xsd">
+  <evento tipo="Accidente" fecha = "2022-05-22">    
+    <via>
+      <nombre>Autopista del V Centenario</nombre>
+      <ref>A-49</ref>
+      <origen>Sevilla</origen>
+      <destino>Huelva</destino>
+    </via>
+    <pk>42.200</pk>
+    <sentido>1</sentido>	  
+    <retencion>1.2</retencion>
+    <carrilescortados valor="8"/>
+  </evento>
+  <evento tipo="Retención" fecha="2022-05-22">
+    <via>
+      <nombre>Autovía de Andalucía</nombre>
+      <ref>A-4</ref>
+      <origen>Madrid</origen>
+      <destino>Cádiz</destino>
+      <doble/>
+    </via>
+    <pk>550.000</pk>
+    <sentido>-1</sentido>
+  </evento>
+</paneles>
+

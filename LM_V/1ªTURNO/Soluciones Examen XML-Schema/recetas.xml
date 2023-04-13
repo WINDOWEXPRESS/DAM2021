@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<recetas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="recetas.xsd">
+  <receta>
+    <datos_generales>
+        <nombre>Tiramisú </nombre>    
+        <autor>yo</autor>
+        <tipo_plato>Postre</tipo_plato>
+        <dificultad>Media</dificultad>
+        <calorias>450</calorias>
+        <tiempo>07 horas, 00 minutos</tiempo>
+        <electrodomesticos>microondas</electrodomesticos>
+    </datos_generales>
+    <ingredientes>
+      <ingrediente>
+        <nombre>chocolate cobertura Valor</nombre>
+        <cantidad>100 gramos</cantidad>
+      </ingrediente>
+        <ingrediente>
+        <nombre>bizcochos blandos</nombre>
+        <cantidad>24 </cantidad>
+      </ingrediente>
+       <ingrediente>
+        <nombre>azúcar</nombre>
+        <cantidad>Medio vaso </cantidad>
+      </ingrediente>
+      <ingrediente>
+        <nombre>café sólo</nombre>
+        <cantidad>Un tazón</cantidad>
+      </ingrediente>
+      <ingrediente>
+        <nombre>huevos</nombre>
+        <cantidad>3</cantidad>
+      </ingrediente> 
+      <ingrediente>
+        <nombre>licor</nombre>
+        <cantidad>Un chorrito</cantidad>
+      </ingrediente>       
+      <ingrediente>
+        <nombre>nata líquida</nombre>
+        <cantidad>0,3 litros</cantidad>
+      </ingrediente>    
+      <ingrediente>
+        <nombre>queso mascarpone</nombre>
+        <cantidad>250 gramos</cantidad>
+      </ingrediente> 
+    </ingredientes>
+    <pasos>
+      <paso orden="1">Echar la mitad del azúcar en la nata líquida y montarla hasta que quede muy compacta.</paso>
+      <paso orden="2">Separar las claras de las yemas y montarlas a punto de nieve.</paso>
+      <paso orden="3">Mezclar despacio el queso y las yemas de huevo, añadiendo el resto del azúcar.</paso>
+      <paso orden="4">Cuando el queso y las yemas estén mezclados, juntar con la nata montada y las claras a punto de nieve y mezclar todo bien, pero despacio.</paso>
+      <paso orden="5">En el café caliente disolver un tercio del chocolate y echar un chorrito de licor.</paso>
+      <paso orden="6">Mojar muy ligeramente los bizcochos en el café sin dejar que se empapen y disponer la mitad de ellos cubriendo el fondo de una fuente.</paso>
+      <paso orden="7">Echar la mitad de la mezcla sobre los bizcochos cubriéndolos uniformemente.</paso>      
+      <paso orden="8">Poner una nueva capa de bizcochos mojados sobre la mezcla.</paso>            
+      <paso orden="9">Echar el resto de la mezcla sobre la segunda capa de bizcochos.</paso>                  
+      <paso orden="10">Dejar reposar al menos 6 horas antes de servir.</paso>                        
+    </pasos>
+  </receta>
+  <receta>
+    <datos_generales>
+        <nombre>Tiramisú 2</nombre>    
+        <restaurante url = "www.mirestaurante.com">el mío</restaurante>
+        <tipo_plato>Postre</tipo_plato>
+        <dificultad>Media</dificultad>
+        <calorias>450</calorias>
+        <tiempo>07 horas, 00 minutos</tiempo>
+        <electrodomesticos>microondas</electrodomesticos>
+    </datos_generales>
+    <ingredientes>
+      <ingrediente>
+        <nombre>chocolate cobertura Valor</nombre>
+        <cantidad>100 gramos</cantidad>
+      </ingrediente>
+        <ingrediente>
+        <nombre>bizcochos blandos</nombre>
+        <cantidad>24 </cantidad>
+      </ingrediente>
+       <ingrediente>
+        <nombre>azúcar</nombre>
+        <cantidad>Medio vaso </cantidad>
+      </ingrediente>
+      <ingrediente>
+        <nombre>café sólo</nombre>
+        <cantidad>Un tazón</cantidad>
+      </ingrediente>
+      <ingrediente>
+        <nombre>huevos</nombre>
+        <cantidad>3</cantidad>
+      </ingrediente> 
+      <ingrediente>
+        <nombre>licor</nombre>
+        <cantidad>Un chorrito</cantidad>
+      </ingrediente>       
+      <ingrediente>
+        <nombre>nata líquida</nombre>
+        <cantidad>0,3 litros</cantidad>
+      </ingrediente>    
+      <ingrediente>
+        <nombre>queso mascarpone</nombre>
+        <cantidad>250 gramos</cantidad>
+      </ingrediente> 
+    </ingredientes>
+    <pasos>
+      <paso orden="1">Echar la mitad del azúcar en la nata líquida y montarla hasta que quede muy compacta.</paso>
+      <paso orden="2">Separar las claras de las yemas y montarlas a punto de nieve.</paso>
+      <paso orden="3">Mezclar despacio el queso y las yemas de huevo, añadiendo el resto del azúcar.</paso>
+      <paso orden="4">Cuando el queso y las yemas estén mezclados, juntar con la nata montada y las claras a punto de nieve y mezclar todo bien, pero despacio.</paso>
+      <paso orden="5">En el café caliente disolver un tercio del chocolate y echar un chorrito de licor.</paso>
+      <paso orden="6">Mojar muy ligeramente los bizcochos en el café sin dejar que se empapen y disponer la mitad de ellos cubriendo el fondo de una fuente.</paso>
+      <paso orden="7">Echar la mitad de la mezcla sobre los bizcochos cubriéndolos uniformemente.</paso>      
+      <paso orden="8">Poner una nueva capa de bizcochos mojados sobre la mezcla.</paso>            
+      <paso orden="9">Echar el resto de la mezcla sobre la segunda capa de bizcochos.</paso>                  
+      <paso orden="10">Dejar reposar al menos 6 horas antes de servir.</paso>                        
+    </pasos>
+  </receta>
+</recetas>

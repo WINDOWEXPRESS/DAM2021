@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vehiculos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vehiculos.xsd">
+  <coche matricula="HHY1234">
+    <marca>SEAT</marca>
+    <modelo>Panda</modelo>
+    <color>Rojo</color>
+    <combustible>Diesel</combustible>
+    <precio>1250,99€</precio> 
+    <kilometraje>35789</kilometraje>      
+  </coche>
+    <moto matricula="HHY1235">
+    <marca>Honda</marca>
+    <modelo>Bueno</modelo>
+    <color>Blanco</color>
+    <combustible>Gasolina</combustible>
+    <precio>2250,00€</precio> 
+    <kilometraje>15789</kilometraje>      
+    <desperfectos>Rayón en el lateral</desperfectos>
+  </moto>
+      <moto matricula="HHY1236">
+    <marca>Honda</marca>
+    <modelo>Bueno</modelo>
+    <color>Blanco</color>
+    <combustible>Gasolina</combustible>
+    <precio>2250,99€</precio> 
+    <kilometraje>15789</kilometraje>      
+    <desperfectos>Rayón en el lateral</desperfectos>
+  </moto>
+</vehiculos>
